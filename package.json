@@ -1,0 +1,25 @@
+{
+  "name": "restfull",
+  "version": "1.0.0",
+  "description": "Restfull api with node , express , firebase and angular",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmairSohail/Node-Angular-RestfullApi.git"
+  },
+  "author": "M.Omair Sohail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmairSohail/Node-Angular-RestfullApi/issues"
+  },
+  "homepage": "https://github.com/OmairSohail/Node-Angular-RestfullApi#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "firebase": "^7.8.1",
+    "nodemon": "^2.0.2"
+  }
+}
